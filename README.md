@@ -1,5 +1,5 @@
-Instruction for running 'act.py'
+Instruction for running 'activity.py'
 
-1. add 'act.txt' file in the same folder as act.py
-2. enter 'python3 act.py' on the FLIP terminal line
+1. add 'act.txt' file in the same folder as activity.py
+2. enter 'python3 activity.py' on the FLIP terminal line
 	a. the output will be printed in the terminal
